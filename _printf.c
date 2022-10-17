@@ -14,3 +14,4 @@ int size;
 va_list args;
 
 if (format == NULL)
+return (-1);
